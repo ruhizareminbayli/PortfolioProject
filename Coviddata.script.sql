@@ -1,3 +1,4 @@
+-- Initial data exploration
 select *
 from coviddeaths c 
 order by 3,4
